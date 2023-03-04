@@ -1,0 +1,30 @@
+.bc{
+  background-image: url(https://cdn.wallpapersafari.com/75/54/UNwmHF.jpg);
+  width: 400px;
+  height: 180px;
+  border-radius: 30px;
+}
+
+h2 {
+  color: #A80000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  position: relative;
+  top: 25px;
+  left: 25px;
+}
+
+.clear {
+  color: #333;
+  background-color: #eee;
+  margin-bottom: 12px;
+  padding: 1rem;
+  border-radius: 10px;
+  font-size: 1rem;
+  position: relative;
+  left: 25px;
+}
+.clear:hover {
+  color: #fff;
+  background-color: #42545C;
+}
